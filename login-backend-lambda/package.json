@@ -1,0 +1,13 @@
+{
+  "name": "homomorphic_drdo",
+  "version": "1.0.0",
+  "description": "Internship Project",
+  "main": "index.js",
+  "author": "Paritosh",
+  "dependencies": {
+    "aws-sdk": "^2.1425.0",
+    "jsonwebtoken": "^9.0.1",
+    "node-seal": "^5.1.1",
+    "nodemon": "^3.0.1"
+  }
+}
